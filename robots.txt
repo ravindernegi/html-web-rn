@@ -26,3 +26,4 @@ Disallow: /blog/wp-content/
 Disallow: /blog/wp-admin/
 Disallow: /blog/wp-includes/
 Disallow: /blog/readme.html
+Disallow: /courses
